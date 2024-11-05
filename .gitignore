@@ -21,3 +21,5 @@ yarn-error.log*
 *.seed
 *.pid.lock
 
+scripts/createDatabase.js
+
